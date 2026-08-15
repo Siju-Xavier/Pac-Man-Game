@@ -2,7 +2,8 @@
 
 A classic Pac-Man clone built in Java using Swing/AWT for rendering and game logic.
 
-![Gameplay Screenshot](screenshot.png)
+<img width="908" height="1000" alt="image" src="https://github.com/user-attachments/assets/8b6b1d4a-60b2-4a98-91e3-6b4b43d5a651" />
+
 
 ## Overview
 
